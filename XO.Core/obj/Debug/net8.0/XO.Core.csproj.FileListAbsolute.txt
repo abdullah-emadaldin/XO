@@ -1,0 +1,13 @@
+C:\Users\tata\source\repos\XO\XO.Core\obj\Debug\net8.0\XO.Core.csproj.AssemblyReference.cache
+C:\Users\tata\source\repos\XO\XO.Core\obj\Debug\net8.0\XO.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tata\source\repos\XO\XO.Core\obj\Debug\net8.0\XO.Core.AssemblyInfoInputs.cache
+C:\Users\tata\source\repos\XO\XO.Core\obj\Debug\net8.0\XO.Core.AssemblyInfo.cs
+C:\Users\tata\source\repos\XO\XO.Core\obj\Debug\net8.0\XO.Core.csproj.CoreCompileInputs.cache
+C:\Users\tata\source\repos\XO\XO.Core\bin\Debug\net8.0\XO.Core.deps.json
+C:\Users\tata\source\repos\XO\XO.Core\bin\Debug\net8.0\XO.Core.dll
+C:\Users\tata\source\repos\XO\XO.Core\bin\Debug\net8.0\XO.Core.pdb
+C:\Users\tata\source\repos\XO\XO.Core\obj\Debug\net8.0\XO.Core.dll
+C:\Users\tata\source\repos\XO\XO.Core\obj\Debug\net8.0\refint\XO.Core.dll
+C:\Users\tata\source\repos\XO\XO.Core\obj\Debug\net8.0\XO.Core.pdb
+C:\Users\tata\source\repos\XO\XO.Core\obj\Debug\net8.0\ref\XO.Core.dll
+C:\Users\tata\source\repos\XO\XO.Core\obj\Debug\net8.0\XO.Core.sourcelink.json
